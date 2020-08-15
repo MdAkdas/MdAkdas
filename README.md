@@ -16,7 +16,6 @@ implementing them. I'm a regular contributor to open-source projects.
 📫Connect me here:  :octocat: <br />
  <br />
 [![Linkedin: Md Akdas Ahmad](https://img.shields.io/badge/-MdAkdasAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-akdas-ahmad-301925174/)](https://www.linkedin.com/in/md-akdas-ahmad-301925174/) 
-[![GitHub MdAkdas](https://img.shields.io/github/followers/MdAkdas?label=follow&style=social)](https://github.com/MdAkdas)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I would be happy to have a talk with you!</b> :)</em>
