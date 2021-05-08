@@ -17,5 +17,10 @@ implementing them. I'm a regular contributor to open-source projects.
  <br />
 [![Linkedin: Md Akdas Ahmad](https://img.shields.io/badge/-MdAkdasAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-akdas-ahmad-301925174/)](https://www.linkedin.com/in/md-akdas-ahmad-301925174/) 
 
-
+ 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I would be happy to have a talk with you!</b> :)</em>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAkdas&show_icons=true&locale=en&layout=compact" alt="MdAkdas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdAkdas&show_icons=true&locale=en" alt="MdAkdas" /></p>
